@@ -1,10 +1,6 @@
 # EarLink Interface: Exploring Novel Input Mechanisms through Tensor Tympani Muscle
 
-**Quick Fact:** When you clench your eyes tightly or yawn widely, you might notice a rumbling sound in your ears, similar to distant thunder. This intriguing phenomenon is due to the tensor tympani muscle.
 
-The tensor tympani muscle's primary role is to protect your ears from loud sounds, like chewing and even thunder. When activated, it tightens the eardrums, preventing them from vibrating and potential damage. However, it may not respond quickly enough to shield against sudden loud sounds.
-
-**# EarLink: Exploring Innovative Ear Interface 🦻
 
 Welcome to the EarLink project, a journey into innovative ways of interfacing with computers and machines using the natural capabilities of your ears.
 
@@ -28,7 +24,9 @@ Welcome to the EarLink project, a journey into innovative ways of interfacing wi
 
 *Note: The project is inspired by the work of Nick G, who first experimented with tensor tympani muscle activation as an input method. We aim to build upon this exciting exploration.*
 
+![rg-ear-diagram-themed](https://github.com/QC20/tensor-tympani-interface/assets/36644388/f4fe68ec-5cff-4414-b501-1c7d82227a85)
 
+**Quick Fact:** When you clench your eyes tightly or yawn widely, you might notice a rumbling sound in your ears, similar to distant thunder. This intriguing phenomenon is due to the tensor tympani muscle. The tensor tympani muscle's primary role is to protect your ears from loud sounds, like chewing and even thunder. When activated, it tightens the eardrums, preventing them from vibrating and potential damage. However, it may not respond quickly enough to shield against sudden loud sounds.
 
 For more detailed information, including demo videos and technical details, please visit our repository.
 
