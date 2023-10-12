@@ -16,13 +16,7 @@ Welcome to the EarLink project, a journey into innovative ways of interfacing wi
 **Current Progress:**
 - **Proof of Concept:** We've demonstrated control of software such as the Windows on-screen keyboard, Grid3 assistive software, and head tracking utilities using tensor tympani muscle activation.
 
-- **Ongoing Development:** We're working on scaling down the setup by using a smaller otoscope and making it more robust by integrating the camera inside a noise-canceling earpiece shell.
-
 - **Future Possibilities:** We're considering alternative motion detection methods, such as using a CMOS camera or thermal imaging.
-
-**Join Our Journey:** We invite you to explore the project, try out the technology, and share your thoughts with us. Together, we can unlock the potential of EarLink as a new and accessible ear-based input mechanism.
-
-*Note: The project is inspired by the work of Nick G, who first experimented with tensor tympani muscle activation as an input method. We aim to build upon this exciting exploration.*
 
 ![rg-ear-diagram-themed](https://github.com/QC20/tensor-tympani-interface/assets/36644388/f4fe68ec-5cff-4414-b501-1c7d82227a85)
 
