@@ -1,3 +1,6 @@
+# This is a tentative script to help decide how the further img recognition will be carried out
+# The reason why it is not being developed on is that I might switch direction and choose another diretion to differentiate between the two states than using img recognition.
+
 import os
 import numpy as np
 import tensorflow as tf
