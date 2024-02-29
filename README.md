@@ -1,8 +1,8 @@
 # EarLink Interface: Exploring Novel Input Mechanisms through Tensor Tympani Muscle
-
-
-
 Welcome to the EarLink project, a journey into innovative ways of interfacing with computers and machines using the natural capabilities of your ears.
+
+**Introduction**
+Earphones are popular among consumers, providing a private audio experience for various activities like listening to music, podcasts, or making hands-free calls. Smart earphones, known as Earables, equipped with sensors and real-time data capabilities, offer novel ways to interact with mobile devices, especially in situations where users are preoccupied or in public spaces. In mobile contexts, subtle and motionless input gestures are favored due to social considerations, avoiding the inconvenience of large physical gestures and maintaining privacy by reducing unwanted attention. Earables can detect input through various means, such as tapping the earphone or recognizing advanced gestures performed around the ear. This introduces a unique opportunity for interaction, including utilizing in-ear barometry to detect head gestures. However, there are challenges regarding social acceptability and the need for more discreet input methods using the earable medium.
 
 **Project Highlights:**
 - **Ear Interface:** Our focus is on harnessing the potential of your ears as a unique input mechanism.
