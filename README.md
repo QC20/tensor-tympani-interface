@@ -25,3 +25,4 @@ Earphones are popular among consumers, providing a private audio experience for 
 ![Skærmbillede 2023-10-12 151248](https://github.com/QC20/tensor-tympani-interface/assets/36644388/e198bce2-660b-41f2-bda5-49eb109f8f59)
 
 For more detailed information, including demo videos and technical details, please visit our repository.
+
